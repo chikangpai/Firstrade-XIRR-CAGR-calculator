@@ -1,6 +1,7 @@
 # Firstrade Account History csv -> compare with sp500
 
 A Streamlit-based dashboard to **compare your personal brokerage performance** against the S&P 500.
+We have a streamlit web version or a ipynb version.
 ![image](https://github.com/user-attachments/assets/b76040ca-365a-4149-8ecf-feaa03b3d73c)
 
 
