@@ -1,0 +1,6 @@
+pandas>=2.0.0
+scipy>=1.10.0
+numpy>=1.24.0  # Required by pandas and scipy
+jupyter>=1.0.0  # For running the notebook
+yfinance>=0.2.0
+streamlit>=1.20.0

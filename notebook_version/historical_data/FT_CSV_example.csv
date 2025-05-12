@@ -1,0 +1,11 @@
+Symbol,Quantity,Price,Action,Description,TradeDate,SettledDate,Interest,Amount,Commission,Fee,CUSIP,RecordType
+, , ,Other,ACH Deposit,2024-06-10,2024-06-10,0.00,1000.00,0.00,0.00,,Financial
+AAPL,1.50,150.00,BUY,Apple Inc. Common Stock,2024-07-01,2024-07-02,0.00,-225.00,1.00,0.00,037833100,Trade
+VOO,0.80,400.00,BUY,Vanguard S&P 500 ETF,2024-07-15,2024-07-16,0.00,-320.00,0.50,0.00,922908363,Trade
+, , ,Interest,Interest on Credit Balance 0.45% 06/01–06/30,2024-06-30,2024-06-30,0.00,0.50,0.00,0.00,00099A109,Financial
+TSLA,0.25,200.00,SELL,Tesla Inc. Common Stock,2024-08-05,2024-08-06,0.00,50.00,1.00,0.00,88160R101,Trade
+MSFT,2.00,300.00,BUY,Microsoft Corp. Common Stock,2024-08-10,2024-08-11,0.00,-600.00,1.00,0.00,594918104,Trade
+, , ,Dividend,Vanguard S&P 500 ETF Cash Div,2024-09-01,2024-09-01,0.00,2.50,0.00,0.00,922908363,Financial
+AMZN,0.10,3500.00,BUY,Amazon.com Inc.,2024-09-15,2024-09-16,0.00,-350.00,1.50,0.00,023135106,Trade
+, , ,Other,ACH Deposit,2024-10-01,2024-10-01,0.00,2000.00,0.00,0.00,,Financial
+NVDA,1.00,500.00,BUY,NVIDIA Corp.,2024-10-10,2024-10-11,0.00,-500.00,1.00,0.00,67066G104,Trade
