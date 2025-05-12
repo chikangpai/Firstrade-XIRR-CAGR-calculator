@@ -2,6 +2,9 @@
 venv/
 .venv/
 
+fresh_venv/
+.fresh_venv/
+
 # Byte-compiled / cache files
 __pycache__/
 *.py[cod]
